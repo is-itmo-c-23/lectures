@@ -5,6 +5,11 @@
 
 [code](23.09.06/code/main.cpp)
 
+## 23.09.13 Типы данных, идентификаторы, операторы, операторы ветвления, циклы, функции
+[Презентация](23.09.13/23.09.13/Lecture%201.%20Types%20%26%20operators%20%26%20function.pdf)
+
+[code](23.09.13/code/main.cpp)
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
