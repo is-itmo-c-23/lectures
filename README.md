@@ -11,6 +11,11 @@
 [code](23.09.13/code/main.cpp)
 
 
+## 23.09.20 Структуры, объединения, указатели, массивы и строки
+[Презентация](23.09.20/Lecture%202.%20Pointer%2C%20arrays%2C%20struct%20and%20union.pdf)
+
+[code](23.09.20/code/main.cpp)
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
