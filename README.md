@@ -18,6 +18,7 @@
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+[Типовые ошибки](https://github.com/is-itmo-c-23/code_rules)
 
 ## Осенний Семестр
 1. [PrintFile](https://classroom.github.com/a/-1r2wyrQ)
