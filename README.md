@@ -23,4 +23,5 @@
 
 ## Осенний Семестр
 1. [PrintFile](https://classroom.github.com/a/-1r2wyrQ)
+2. [int2023_t](https://classroom.github.com/a/TQxN-TKX)
 
