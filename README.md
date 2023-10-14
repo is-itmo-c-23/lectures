@@ -17,7 +17,7 @@
 [code](23.09.20/code/main.cpp)
 
 
-## 23.09.11 Memory
+## 23.10.11 Memory
 [Презентация](23.10.11/Lecture%203.%20Memory.pdf)
 
 [code](23.10.11/code/main.cpp)
