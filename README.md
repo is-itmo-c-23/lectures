@@ -11,16 +11,22 @@
 [code](23.09.13/code/main.cpp)
 
 
-## 23.09.20 - 27 Структуры, объединения, указатели, массивы и строки
+## 23.09.20-27 Структуры, объединения, указатели, массивы и строки
 [Презентация](23.09.20/Lecture%202.%20Pointer%2C%20arrays%2C%20struct%20and%20union.pdf)
 
 [code](23.09.20/code/main.cpp)
 
 
-## 23.10.11 Memory
+## 23.10.11-18 Memory
 [Презентация](23.10.11/Lecture%203.%20Memory.pdf)
 
 [code](23.10.11/code/main.cpp)
+
+## 23.10.25 Reference, Reference, initialization, function overloading, namespaces
+[Презентация](23.10.25/Lecture%204.%20Reference%2C%20initialization%2C%20function%2C%20namespace.pdf)
+
+[code](23.10.25/code/main.cpp)
+
 
 
 # Лабораторные работы
