@@ -27,6 +27,17 @@
 
 [code](23.10.25/code/main.cpp)
 
+## 23.11.01 Compilation
+[Презентация](23.11.01/Lecture%205.%20Compiler%20and%20preprocessor.pdf)
+
+[code](23.11.01/code/main.cpp)
+
+
+## 23.11.08 Class - I
+[Презентация](23.11.08/Lecture%206.%20C%2B%2B.%20ООП.%20Абстракция.%20Инкапсуляция.pdf)
+
+[code](23.11.08/code/main.cpp)
+
 
 
 # Лабораторные работы
