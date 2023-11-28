@@ -39,6 +39,13 @@
 [code](23.11.08/code/main.cpp)
 
 
+## 23.11.15-22 Operator overloading
+
+[Презентация](23.11.22/Lecture%207.%20Operator%20overloading.pdf)
+
+[code](23.11.22/code/main.cpp)
+
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
