@@ -46,6 +46,14 @@
 [code](23.11.22/code/main.cpp)
 
 
+## 23.11.29 Class- II
+
+[Презентация](23.11.29/Lecture%208%20%20C%2B%2B.%20ООП.%20Наследование.%20Полиморфизм..pdf)
+
+
+[code](23.11.29/code/main.cpp)
+
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
