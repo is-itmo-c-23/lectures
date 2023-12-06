@@ -66,4 +66,5 @@
 3. [SandpileModel](https://classroom.github.com/a/f3isOQak)
 4. [ArgParser](https://classroom.github.com/a/JeKT-A7E)
 5. [Array](https://classroom.github.com/a/3BuLkqrV)
+6. [HamArc](https://classroom.github.com/a/BVGneoKV)
 
