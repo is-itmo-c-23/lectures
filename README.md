@@ -73,3 +73,5 @@
 5. [Array](https://classroom.github.com/a/3BuLkqrV)
 6. [HamArc](https://classroom.github.com/a/BVGneoKV)
 
+[Дифзачет](Exam%20-%20I.md)
+
