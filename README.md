@@ -46,13 +46,18 @@
 [code](23.11.22/code/main.cpp)
 
 
-## 23.11.29 Class- II
+## 23.11.29  23.12.06 23.11.15 Class - II
 
 [Презентация](23.11.29/Lecture%208%20%20C%2B%2B.%20ООП.%20Наследование.%20Полиморфизм..pdf)
 
-
 [code](23.11.29/code/main.cpp)
 
+
+## 23.12.27 Template - I
+
+[Презентация](23.12.27/Lecture%209.%20Template.%20class%20and%20function%20-%20I.pdf)
+
+[code](23.12.27/code/main.cpp)
 
 
 # Лабораторные работы
