@@ -53,11 +53,14 @@
 [code](23.11.29/code/main.cpp)
 
 
-## 23.12.27 Template - I
+## 23.12.27 24.02.07 Template - I
 
 [Презентация](23.12.27/Lecture%209.%20Template.%20class%20and%20function%20-%20I.pdf)
 
 [code](23.12.27/code/main.cpp)
+[code](24.02.07/code/main.cpp)
+
+
 
 
 # Лабораторные работы
@@ -75,3 +78,5 @@
 
 [Дифзачет](Exam%20-%20I.md)
 
+## Весенний Семестр
+7. [Weather](https://classroom.github.com/a/-wAuzAMK)
