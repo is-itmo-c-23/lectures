@@ -60,6 +60,11 @@
 [code](23.12.27/code/main.cpp)
 [code](24.02.07/code/main.cpp)
 
+## 24.02.14 Template - II
+
+[Презентация](24.02.14/Lecture%2010.%20%20Template%20-%202.pdf)
+
+[code](24.02.14/code/main.cpp)
 
 
 
