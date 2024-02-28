@@ -85,3 +85,4 @@
 
 ## Весенний Семестр
 7. [Weather](https://classroom.github.com/a/-wAuzAMK)
+8. [BST](https://classroom.github.com/a/Zx96nyBn)
