@@ -77,6 +77,18 @@
 
 [code](24.02.28/code/main.cpp)
 
+## 24.03.06 STL - III
+
+[Презентация](24.03.06/Lecture%2012.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы%20-%20III.pdf)
+
+[code](24.03.06/code/main.cpp)
+
+## 24.03.13 Error Handling
+
+[Презентация](24.03.13/Lecture%2014.%20Error%20Handling.pdf)
+
+[code](24.03.13/code/main.cpp)
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
