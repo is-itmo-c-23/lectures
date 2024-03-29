@@ -58,6 +58,7 @@
 [Презентация](23.12.27/Lecture%209.%20Template.%20class%20and%20function%20-%20I.pdf)
 
 [code](23.12.27/code/main.cpp)
+
 [code](24.02.07/code/main.cpp)
 
 ## 24.02.14 Template - II
@@ -82,16 +83,19 @@
 [Презентация](24.03.06/Lecture%2012.%20STL.%20Контейнеры%2C%20итераторы%2C%20алгоритмы%20-%20III.pdf)
 
 [code](24.03.06/code/main.cpp)
+
 [code](24.03.13/code/main.cpp)
 
 ## 24.03.20 Error Handling
 
 [Презентация](24.03.13/Lecture%2014.%20Error%20Handling.pdf)
+
 [code](24.03.20/code/main.cpp)
 
 ## 24.03.27 Lambda
 
 [Презентация](24.03.27/Lecture%2015.%20Lambda.pdf)
+
 [code](24.03.27/code/main.cpp)
 
 # Лабораторные работы
