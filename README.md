@@ -89,6 +89,11 @@
 [Презентация](24.03.13/Lecture%2014.%20Error%20Handling.pdf)
 [code](24.03.20/code/main.cpp)
 
+## 24.03.27 Lambda
+
+[Презентация](24.03.27/Lecture%2015.%20Lambda.pdf)
+[code](24.03.27/code/main.cpp)
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
