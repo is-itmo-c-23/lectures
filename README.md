@@ -92,7 +92,7 @@
 
 [code](24.03.20/code/main.cpp)
 
-## 24.03.27 Lambda
+## 24.03.27 & 24.04.03 Lambda
 
 [Презентация](24.03.27/Lecture%2015.%20Lambda.pdf)
 
