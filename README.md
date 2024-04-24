@@ -100,9 +100,17 @@
 
 ## 24.04.10 Cast
 
-[Презентация](24.04.10//Lecture%2016.%20%20Casts%2C%20CRTP.pdf)
+[Презентация](24.04.10/Lecture%2016.%20%20Casts%2C%20CRTP.pdf)
 
 [code](24.04.10/code/main.cpp)
+
+
+## 24.04.17 -  24.04.24 Value categories & Move Semantics
+
+[Презентация](24.04.17/Lecture%2017.%20%20Value%20categories%20%26%20Move%20semantics.pdf)
+
+[code](24.04.17/code/main.cpp)
+
 
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
