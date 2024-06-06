@@ -149,3 +149,5 @@
 11. [SimpleSearchEngine](https://classroom.github.com/a/MWo_gFc0)
 
 [Livecoding](https://classroom.github.com/a/D9CJvbHW)
+
+[Дифзачет](Exam%20-%20II.md)
