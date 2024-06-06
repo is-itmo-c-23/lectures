@@ -112,6 +112,20 @@
 [code](24.04.17/code/main.cpp)
 
 
+## 24.05.08 -  24.04.15 Variadic Templates
+
+[Презентация](24.05.08/Lecture%2018.%20%20Variadic%20template.pdf)
+
+[code](24.05.08/code/main.cpp)
+
+
+## 24.05.22 -  24.05.29 Metaprogramming
+
+[Презентация](24.05.22/Lecture%2019.%20%20Templet%20Metaprogramming.pdf)
+
+[code](24.05.22/code/main.cpp)
+
+
 # Лабораторные работы
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
